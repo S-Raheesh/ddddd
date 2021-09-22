@@ -1,0 +1,12 @@
+body{
+    background-image: url("birds.jpg");
+    text-align: center;
+}
+#st{
+    width: 150px;
+    height: 100px;
+    border-radius: 100px;
+    border-width: 20px;
+    border-color: black;
+    background-color: cadetblue;
+}
